@@ -1,10 +1,12 @@
-import Accordian from "./components/Accordian/Accordian";
+// import Accordian from "./components/Accordian/Accordian";
 
+import RandomColorGenerator from "./components/RandomColor/RandomColorGenerator";
 
 function App() {
   return (
-    <div >
-       <Accordian />
+    <div>
+      {/* <Accordian /> */}
+      <RandomColorGenerator />
     </div>
   );
 }

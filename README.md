@@ -2,4 +2,4 @@
 
 
 - Accordion
-
+- Random color generator
